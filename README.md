@@ -1,2 +1,4 @@
-# Ultimate-Tic-Tac-Toe
-An Ultimate Tic Tac Toe Game
+This is a tic tac toe game where you can play both v/s computer or other players
+
+Library used - tkinter
+algo - Minimax
